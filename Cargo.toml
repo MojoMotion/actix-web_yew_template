@@ -1,0 +1,11 @@
+[package]
+name = "app_name"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+types = { path= "types" }
+actix-web = "*"
+actix-files = "*"
+actix-cors = "*"
+env_logger = "*"

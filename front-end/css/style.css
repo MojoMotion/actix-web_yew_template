@@ -1,0 +1,23 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 3.5% 20%;
+}
+
+header .slider {
+  display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+.logo {
+  display: flex;
+  position: fixed;
+  top: 4%;
+  left: 4%;
+}
+
+/*# sourceMappingURL=style.css.map */

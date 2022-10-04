@@ -1,0 +1,8 @@
+[package]
+name = "front-end"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+yew = "*"
+yew-router = "*"
